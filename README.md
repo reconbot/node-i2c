@@ -1,5 +1,7 @@
 # i2c
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/reconbot/node-i2c.svg)](https://greenkeeper.io/)
+
 Bindings for i2c-dev. Plays well with Raspberry Pi and Beaglebone.
 
 ## Install
